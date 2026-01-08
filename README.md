@@ -134,9 +134,9 @@ pnpm dev
 
 ## 📖 详细文档
 
-- [前端文档]([./frontend/README.md](https://github.com/lijianqiao/frontend/blob/main/README.md))
-- [后端文档]([./backend/README.md](https://github.com/lijianqiao/backend/blob/master/README.md))
-- [API 文档]([./frontend/api.md](https://github.com/lijianqiao/frontend/blob/main/api.md))
+- [前端文档](https://github.com/lijianqiao/frontend/blob/main/README.md)
+- [后端文档](https://github.com/lijianqiao/backend/blob/master/README.md)
+- [API 文档](https://github.com/lijianqiao/frontend/blob/main/api.md)
 
 ## 📄 License
 
